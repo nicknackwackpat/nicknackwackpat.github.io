@@ -1,0 +1,48 @@
+html {
+    background-color: #efefef;
+}
+
+body {
+    background-color: #efefef;
+}
+
+header {
+    background-color: #efefef;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+    letter-spacing: 15px;
+    font-size: 60px;
+    text-align: center;
+}
+
+h1 {
+    background-color: #efefef;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.navbar {
+    width: 100%;
+    background-color: black;
+}
+
+.float-left {
+    background-color: #efefef;
+    height: 200px;
+}
+
+img {
+    background-color: #efefef;
+    text-align: left;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+.bio {
+    background-color: #efefef;
+    margin-right: 25px;
+    padding: 45px;
+
+
+}

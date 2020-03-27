@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 15px;
+    margin: auto;
+    padding: 10px;
+}
+
+label {
+    padding: 5px;
+}
+
+#formGroupExampleInput {
+    width: 200px;
+    height: 50px;
+}
+
+#formGroupExampleInput2 {
+    width: 200px;
+    height: 50px;
+}
+
+#formGroupExampleInput3 {
+    width: 450px;
+    height: 150px;
+}
